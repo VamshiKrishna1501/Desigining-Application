@@ -7,4 +7,4 @@ pip install -r requirements.txt
 python app.py
 apply the changes 
 create the pulm request 
-create  
+create  database
