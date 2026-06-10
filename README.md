@@ -10,3 +10,4 @@ create the pulm request
 create  database
 update database
 delete database
+read database
