@@ -9,3 +9,4 @@ apply the changes
 create the pulm request 
 create  database
 update database
+delete database
