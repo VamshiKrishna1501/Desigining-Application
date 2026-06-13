@@ -1,3 +1,5 @@
+
+expose
 adapter 
 tensorflow
 python
