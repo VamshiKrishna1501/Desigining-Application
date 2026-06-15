@@ -9,7 +9,6 @@ https://www.markdownguide.org/cheat-sheet/
 
 
 
-
 pip install -r requirements.txt
 python app.py
 apply the changes 
