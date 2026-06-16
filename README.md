@@ -12,4 +12,3 @@ delete database
 read database
 h
 
-H
